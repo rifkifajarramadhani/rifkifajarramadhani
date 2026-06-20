@@ -1,7 +1,7 @@
 # Hi, I'm Rifki 👋
 ### Full-Stack Engineer · Indonesia 🇮🇩
 
-*Crafting fast, scalable, and elegant web applications for 4+ years*
+*Crafting fast, scalable, and elegant web applications for 6+ years*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rifkifajarramadhani.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifkifajarramadhani/)
