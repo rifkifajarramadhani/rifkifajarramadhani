@@ -76,6 +76,10 @@ Genesys Integrated ID      Back-End Developer       Oct 2020 – Nov 2021
 
 [![Rifki's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rifkifajarramadhani&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rifkifajarramadhani&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkifajarramadhani&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
