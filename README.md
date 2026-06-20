@@ -1,7 +1,7 @@
 # Hi, I'm Rifki 👋
 ### Full-Stack Engineer · Indonesia 🇮🇩
 
-*Crafting fast, scalable, and elegant web applications for 4+ years*__root.tsx:79 Warning: A notFoundError was encountered on the route with ID "__root__", but a notFoundComponent option was not configured, nor was a router level defaultNotFoundComponent configured. Consider configuring at least one of these to avoid TanStack Router's overly generic defaultNotFoundComponent (<p>Not Found</p>)
+*Crafting fast, scalable, and elegant web applications for 4+ years*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://rifkifajarramadhani.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifkifajarramadhani/)
