@@ -80,8 +80,6 @@ Genesys Integrated ID      Back-End Developer       Oct 2020 – Nov 2021
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rifkifajarramadhani&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkifajarramadhani&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 *"Clean code always looks like it was written by someone who cares."*
