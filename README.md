@@ -51,9 +51,8 @@ I'm a passionate full-stack engineer based in Indonesia with **4+ years of exper
 | Project | Description | Stack |
 |---|---|---|
 | [**golang-clean-architecture**](https://github.com/rifkifajarramadhani/golang-clean-architecture) | A reusable template implementing clean architecture principles in Go | Go |
-| [**portfolio**](https://github.com/rifkifajarramadhani/portfolio) | Personal portfolio site showcasing my work and experience | TypeScript |
+| [**me**](https://github.com/rifkifajarramadhani/me) | Personal site showcasing my work and experience | TypeScript |
 | [**code-wars**](https://github.com/rifkifajarramadhani/code-wars) | Daily algorithm challenges from the CodeWars platform | JavaScript |
-| [**nodejs-notes-app-backend-hapi**](https://github.com/rifkifajarramadhani/nodejs-notes-app-backend-hapi) | RESTful notes API built with the Hapi.js framework | JavaScript |
 
 ---
 
