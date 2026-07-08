@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate full-stack engineer based in Indonesia with **4+ years of experience** building innovative and efficient web applications. I care deeply about clean architecture, performance optimization, and delivering seamless user experiences — from pixel-perfect frontends to scalable backend systems.
+I'm a passionate full-stack engineer based in Indonesia with **5+ years of experience** building innovative and efficient web applications. I care deeply about clean architecture, performance optimization, and delivering seamless user experiences — from pixel-perfect frontends to scalable backend systems.
 
 - 🔭 Currently working at **Lima Bean** on full-stack web apps with VueJS, Node.js & Tailwind
 - 🛠️ Built and shipped projects for brands like [Sportsman's Warehouse](https://www.sportsmanswarehouse.co.za/), [Outdoor Warehouse](https://www.outdoorwarehouse.co.za/), [Shelflife](https://www.shelflife.co.za/), and [Museum MACAN](https://www.museummacan.org/)
