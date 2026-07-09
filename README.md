@@ -65,6 +65,16 @@ Northbit ID                Back-End Engineer        Apr 2021 – Mar 2023
 Genesys Integrated ID      Back-End Developer       Oct 2020 – Nov 2021
 ```
 
+---
+
+## 📊 GitHub Stats
+
+![Rifki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifkifajarramadhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkifajarramadhani&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 *"Clean code always looks like it was written by someone who cares."*
 
 ⭐ If you find something useful, feel free to star the repo!!!
