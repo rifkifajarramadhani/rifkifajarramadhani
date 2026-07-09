@@ -67,9 +67,7 @@ Genesys Integrated ID      Back-End Developer       Oct 2020 – Nov 2021
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rifkifajarramadhani&theme=github-dark&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=rifkifajarramadhani&theme=github-dark&hide_border=true" />
 
 *"Clean code always looks like it was written by someone who cares."*
 
