@@ -65,9 +65,58 @@ Northbit ID                Back-End Engineer        Apr 2021 – Mar 2023
 Genesys Integrated ID      Back-End Developer       Oct 2020 – Nov 2021
 ```
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<img src="https://streak-stats.demolab.com?user=rifkifajarramadhani&theme=github-dark&hide_border=true" />
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rifkifajarramadhani&theme=github_dark"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rifkifajarramadhani&theme=github-dark"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rifkifajarramadhani&theme=github_dark&utcOffset=7"
+    width="49%"
+    alt="Productive Time"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rifkifajarramadhani&theme=github_dark"
+    width="49%"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rifkifajarramadhani&theme=github_dark"
+    width="49%"
+    alt="Repositories Per Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rifkifajarramadhani&theme=github_dark"
+    width="49%"
+    alt="Most Commit Language"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rifkifajarramadhani&theme=github-dark&hide_border=true"
+    width="60%"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 *"Clean code always looks like it was written by someone who cares."*
 
