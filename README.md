@@ -77,6 +77,14 @@ Genesys Integrated ID      Back-End Developer       Oct 2020 – Nov 2021
 
 <p align="center">
   <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rifkifajarramadhani&theme=github-dark"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://streak-stats.demolab.com?user=rifkifajarramadhani&theme=github-dark&hide_border=true"
     width="60%"
     alt="GitHub Streak"
