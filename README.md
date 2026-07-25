@@ -50,8 +50,10 @@ I'm a passionate full-stack engineer based in Indonesia with **5+ years of exper
 
 | Project | Description | Stack |
 |---|---|---|
+| [**go-craft**](https://github.com/rifkifajarramadhani/go-craft) | Offline, composable generator for clean-architecture Go services — emits only the HTTP, database, queue, search, and scheduler adapters you pick | Go |
 | [**golang-clean-architecture**](https://github.com/rifkifajarramadhani/golang-clean-architecture) | A reusable template implementing clean architecture principles in Go | Go |
-| [**me**](https://github.com/rifkifajarramadhani/me) | Personal site showcasing my work and experience | TypeScript |
+| [**comprimage**](https://github.com/rifkifajarramadhani/comprimage) | Privacy-first image toolkit — resize, compress, and convert entirely in the browser, no uploads | TypeScript |
+| [**aibar**](https://github.com/rifkifajarramadhani/aibar) | Waybar usage monitor for AI coding tools, tracking Claude Code and Codex usage in real time | Go |
 | [**code-wars**](https://github.com/rifkifajarramadhani/code-wars) | Daily algorithm challenges from the CodeWars platform | JavaScript |
 
 ---
