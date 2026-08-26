@@ -80,7 +80,7 @@ Genesys Integrated ID      Back-End Developer       Oct 2020 – Nov 2021
 <p align="center">
   <img
     src="https://github-stats.rifkiramadhani.my.id/streak"
-    width="60%"
+    width="100%"
     alt="GitHub Streak"
   />
 </p>
