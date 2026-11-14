@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300" viewBox="0 0 840 300" role="img" aria-label="Rifki Fajar Ramadhani — Full-Stack Engineer">
+  <title>Rifki Fajar Ramadhani — Full-Stack Engineer</title>
+  <style>
+    .mono { font-family: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, monospace; font-size: 15px; }
+    .sans { font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+    .prompt { fill: #5B9E7E; font-weight: 600; }
+    .cmd { fill: #E4E4E7; }
+    .out { fill: #A1A1AA; }
+    .muted { fill: #71717A; }
+    .accent { fill: #5B9E7E; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
+  </style>
+
+  <defs>
+    <radialGradient id="glow" cx="88%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#5B9E7E" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#5B9E7E" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="c1"><rect x="62" y="56" height="28" width="0"><animate attributeName="width" from="0" to="90" begin="0.3s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="62" y="122" height="28" width="0"><animate attributeName="width" from="0" to="130" begin="1.6s" dur="0.8s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="62" y="182" height="28" width="0"><animate attributeName="width" from="0" to="160" begin="3.0s" dur="0.9s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <!-- window -->
+  <rect x="0.5" y="0.5" width="839" height="299" rx="12" fill="#0D1117" stroke="rgba(113,113,122,0.18)"/>
+  <rect x="0.5" y="0.5" width="839" height="299" rx="12" fill="url(#glow)"/>
+  <circle cx="24" cy="20" r="5.5" fill="#3F3F46"/>
+  <circle cx="42" cy="20" r="5.5" fill="#3F3F46"/>
+  <circle cx="60" cy="20" r="5.5" fill="#3F3F46"/>
+  <text class="mono muted" x="420" y="25" text-anchor="middle" font-size="12">rifki@east-java: ~</text>
+  <line x1="0" y1="40" x2="840" y2="40" stroke="rgba(113,113,122,0.18)"/>
+
+  <!-- 1: whoami -->
+  <g opacity="0">
+    <set attributeName="opacity" to="1" begin="0.1s" fill="freeze"/>
+    <text class="mono prompt" x="28" y="76">~ ❯</text>
+    <text class="mono cmd" x="62" y="76" clip-path="url(#c1)">whoami</text>
+  </g>
+  <text class="sans" x="28" y="110" fill="#F4F4F5" font-size="28" font-weight="700" letter-spacing="-0.5" opacity="0">Rifki Fajar Ramadhani<animate attributeName="opacity" from="0" to="1" begin="1.0s" dur="0.4s" fill="freeze"/></text>
+
+  <!-- 2: role -->
+  <g opacity="0">
+    <set attributeName="opacity" to="1" begin="1.5s" fill="freeze"/>
+    <text class="mono prompt" x="28" y="142">~ ❯</text>
+    <text class="mono cmd" x="62" y="142" clip-path="url(#c2)">cat role.txt</text>
+  </g>
+  <text class="mono out" x="28" y="166" opacity="0">Full-Stack Engineer <tspan class="accent">·</tspan> fast, scalable &amp; elegant web apps<animate attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.3s" fill="freeze"/></text>
+
+  <!-- 3: uptime -->
+  <g opacity="0">
+    <set attributeName="opacity" to="1" begin="2.9s" fill="freeze"/>
+    <text class="mono prompt" x="28" y="202">~ ❯</text>
+    <text class="mono cmd" x="62" y="202" clip-path="url(#c3)">uptime --career</text>
+  </g>
+  <text class="mono out" x="28" y="226" opacity="0">up <tspan class="accent">6+ years</tspan> · Go, TypeScript, Vue, Node · East Java, Indonesia<animate attributeName="opacity" from="0" to="1" begin="4.0s" dur="0.3s" fill="freeze"/></text>
+
+  <!-- 4: idle prompt -->
+  <g opacity="0">
+    <set attributeName="opacity" to="1" begin="4.4s" fill="freeze"/>
+    <text class="mono prompt" x="28" y="264">~ ❯</text>
+    <rect class="cursor" x="62" y="251" width="9" height="17" fill="#5B9E7E"/>
+  </g>
+</svg>
