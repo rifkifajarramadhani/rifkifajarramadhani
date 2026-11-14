@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rifkifajarramadhani&style=flat-square&color=5B9E7E&label=profile+views" alt="Profile views" />
   <img src="https://img.shields.io/badge/open_to-interesting_problems-5B9E7E?style=flat-square" alt="Open to interesting problems" />
 </p>
 
@@ -52,9 +51,9 @@ var rifki = Engineer{
     <td align="center" width="33%"><b>Infra & tools</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=ts,vue,react,tailwind&theme=dark" alt="TypeScript, Vue, React, Tailwind" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=go,nodejs,php,js&theme=dark" alt="Go, Node.js, PHP, JavaScript" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgres,docker,git,linux&theme=dark" alt="PostgreSQL, Docker, Git, Linux" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /></td>
   </tr>
 </table>
 
@@ -120,14 +119,6 @@ var rifki = Engineer{
 
 <p align="center">
   <img src="https://github-stats.rifkiramadhani.my.id/streak" width="100%" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rifkifajarramadhani/rifkifajarramadhani/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rifkifajarramadhani/rifkifajarramadhani/output/snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/rifkifajarramadhani/rifkifajarramadhani/output/snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
-  </picture>
 </p>
 
 ---
