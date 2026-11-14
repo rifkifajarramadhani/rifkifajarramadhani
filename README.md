@@ -38,7 +38,7 @@ var rifki = Engineer{
 }
 ```
 
-<sub>Brands I've built for: <a href="https://www.sportsmanswarehouse.co.za/">Sportsman's Warehouse</a> · <a href="https://www.outdoorwarehouse.co.za/">Outdoor Warehouse</a> · <a href="https://www.shelflife.co.za/">Shelflife</a> · <a href="https://www.museummacan.org/">Museum MACAN</a></sub>
+<sub>Brands I've built for: <a href="https://www.sportsmanswarehouse.co.za/">Sportsman's Warehouse</a> · <a href="https://www.outdoorwarehouse.co.za/">Outdoor Warehouse</a> · <a href="https://www.shelflife.co.za/">Shelflife</a> · <a href="https://www.museummacan.org/">Museum MACAN</a> · <a href="https://github.com/rifkifajarramadhani/typefn">typefn</a> · <a href="https://github.com/rifkifajarramadhani/comprimage">comprimage</a></sub>
 
 ---
 
