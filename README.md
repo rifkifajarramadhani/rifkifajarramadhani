@@ -104,7 +104,7 @@ var rifki = Engineer{
 
 | When | Where | Role |
 |:--|:--|:--|
-| **May 2024 – now** | 🫘 **Lima Bean** | Full-Stack Engineer |
+| **May 2024 – now** | 🇿🇦 **Lima Bean** | Full-Stack Engineer |
 | Jan 2022 – Feb 2024 | 🇸🇬 AutoWealth SG | Software Engineer |
 | Apr 2021 – Mar 2023 | 🇮🇩 Northbit ID | Back-End Engineer |
 | Oct 2020 – Nov 2021 | 🇮🇩 Genesys Integrated ID | Back-End Developer |
