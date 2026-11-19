@@ -126,5 +126,5 @@ var rifki = Engineer{
 <p align="center">
   <i>"Clean code always looks like it was written by someone who cares."</i> (Michael Feathers)
   <br /><br />
-  <sub>⭐ Found something useful? A star makes my day!</sub>
+  <sub>⭐ Found something useful? A star makes my day!!!</sub>
 </p>
